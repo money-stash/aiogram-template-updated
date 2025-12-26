@@ -1,0 +1,1 @@
+Aiogram3 + sqlalchemy template
